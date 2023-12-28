@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/3d-portfolio-tuto/static/css/main.c9513945.css",
-    "main.js": "/3d-portfolio-tuto/static/js/main.9c26f3d1.js",
+    "main.js": "/3d-portfolio-tuto/static/js/main.47225d0d.js",
+    "static/media/island.glb": "/3d-portfolio-tuto/static/media/island.4bc24e1789ee6c57cf12.glb",
+    "static/media/sky.glb": "/3d-portfolio-tuto/static/media/sky.976aece63e736f4c2961.glb",
     "index.html": "/3d-portfolio-tuto/index.html",
     "main.c9513945.css.map": "/3d-portfolio-tuto/static/css/main.c9513945.css.map",
-    "main.9c26f3d1.js.map": "/3d-portfolio-tuto/static/js/main.9c26f3d1.js.map"
+    "main.47225d0d.js.map": "/3d-portfolio-tuto/static/js/main.47225d0d.js.map"
   },
   "entrypoints": [
     "static/css/main.c9513945.css",
-    "static/js/main.9c26f3d1.js"
+    "static/js/main.47225d0d.js"
   ]
 }
